@@ -1,1 +1,3 @@
-nama : raflibaihaqi jurusan : information system minat : menjadi progammer
+Nama: Rafli Baihaqi
+Jurusan: Sistem Informasi
+Cita cita: Jadi Dokter
